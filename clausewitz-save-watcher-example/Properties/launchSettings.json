@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "clausewitz-save-watcher-example": {
+      "commandName": "Project",
+      "commandLineArgs": "\"d:\\Users\\serpentskirt\\Documents\\Paradox Interactive\\Stellaris\\save games\\\\\" \"d:\\output\\clausewitz-save-watcher\\\\\""
+    }
+  }
+}
